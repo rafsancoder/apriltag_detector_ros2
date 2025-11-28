@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>apriltag_detector</name>
+  <version>0.0.1</version>
+  <description>AprilTag detection node using OpenCV and pupil_apriltags.</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+
+  <export>
+  </export>
+</package>
